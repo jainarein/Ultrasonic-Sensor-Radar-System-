@@ -56,10 +56,9 @@ Where:
 ## 📂 Project Structure
 Ultrasonic-Sensor-Radar/  
 ├── ultrasonic_radar.ino  
-├── radar_visualization.pde  
+├── radar_visualization_pde.pde  
 ├── README.md  
-├── demo/  
-&nbsp;&nbsp;&nbsp;&nbsp;└── radar_demo.mp4  
+├── radar_demo.mp4  
 
 ---
 
